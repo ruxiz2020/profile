@@ -1,13 +1,12 @@
 /* CSS Document */
 
 body {
-	background-color:#fff;
-	background-image:url(../images/backgrounds/body.jpg);
+	background-color:#F0F8FF;
 	background-position:top;
 	background-repeat:repeat-x;
 	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:75%;
-	color:#777;
+	font-size:83%;
+	color:black;
 	margin:0;
 }
 
@@ -103,7 +102,7 @@ body {
 	text-transform:uppercase;
 	letter-spacing:1px;
 	margin:10px 0 20px 0;
-	color:#BFEF01;
+	color:#696969;
 }
 #content h2 {
 	font-size:16px;
@@ -210,7 +209,7 @@ blockquote {
 	text-decoration:none;
 }
 #content a:hover {
-		background-color:#EBFF99;
+		background-color:#696969;
 		color:#000;
 }
 a:hover {
@@ -236,7 +235,7 @@ a:hover {
 
 #footer {
 	padding:20px;
-	border-top:2px solid #ccff00;
+	border-top:2px solid #696969;
 	color:#ccc;
 	text-align:center;
 }
